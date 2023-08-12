@@ -1,1 +1,1 @@
-## django-artStore
+## Django Art Store
